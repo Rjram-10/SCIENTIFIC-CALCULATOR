@@ -7,7 +7,7 @@ while i!=5:
 1.Elememtry Operation(Addition,Subtraction,Multiplication,Division,Mod)
 2.Power and Square root operatrion
 3.Trigonometric operation
-4.Conversion(Degree -> Radian & Radian -> Degree)
+4.Conversion(Degree -> Radian & Radian -> Degree) 
 5.Exit''')
 
     try:
